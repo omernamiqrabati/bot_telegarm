@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token
-BOT_TOKEN = "7254600037:AAG2630rLOEzzAa5lDtBlP2kfkqFvdcOIOI"
+BOT_TOKEN = "8171160278:AAFZIZ6tky8qrj5YGvZ1e-1HCAvCCW7U18k"
 
 class TextToImageBot:
     def __init__(self):
