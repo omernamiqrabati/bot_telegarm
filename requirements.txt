@@ -1,2 +1,6 @@
+arabic-reshaper
+python-bidi
 python-telegram-bot==20.7
-Pillow==10.2.0 
+Pillow==10.2.0
+requests
+# ... your other dependencies
